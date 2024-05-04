@@ -1,0 +1,40 @@
+﻿  Satisfied.cpp
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(140,38): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(255,38): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(255,38): warning C4244:         with
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(255,38): warning C4244:         [
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(255,38): warning C4244:             T=float
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(255,38): warning C4244:         ]
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(257,38): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(257,38): warning C4244:         with
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(257,38): warning C4244:         [
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(257,38): warning C4244:             T=float
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(257,38): warning C4244:         ]
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(259,38): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(259,38): warning C4244:         with
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(259,38): warning C4244:         [
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(259,38): warning C4244:             T=float
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(259,38): warning C4244:         ]
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(450,38): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(450,38): warning C4244:         with
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(450,38): warning C4244:         [
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(450,38): warning C4244:             T=float
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(450,38): warning C4244:         ]
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(452,38): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(452,38): warning C4244:         with
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(452,38): warning C4244:         [
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(452,38): warning C4244:             T=float
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(452,38): warning C4244:         ]
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(457,39): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(457,39): warning C4244:         with
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(457,39): warning C4244:         [
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(457,39): warning C4244:             T=float
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(457,39): warning C4244:         ]
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(459,39): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(459,39): warning C4244:         with
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(459,39): warning C4244:         [
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(459,39): warning C4244:             T=float
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(459,39): warning C4244:         ]
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(625,38): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\Satisfied\Src\Satisfied.cpp(679,38): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  Satisfied.vcxproj -> D:\Others\Projects\Visual Projects\Mini Jam\SatisfiedProject\x64\Debug\Satisfied.exe
